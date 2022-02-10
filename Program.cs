@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _14.HAFTA
+namespace _14.HAFTA_UYGULAMA_2
 {
     static class Program
     {
